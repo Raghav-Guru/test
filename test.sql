@@ -13,7 +13,6 @@
 -- See the License for the specific language governing permissions and
 -- limitations under the License.
 
-
 DECLARE
 	t_count number:=0;
 	v_count_1 number:=0;
